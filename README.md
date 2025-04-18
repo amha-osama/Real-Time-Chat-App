@@ -14,9 +14,11 @@ mv .env.example .env
 
 4.Navigate to the project root directory and run
 ```
-docker-conpose up -d
+docker-compose up -d 
 ```
-5.Run
+5.open php may admin in browser : //http://localhost:8081/.
+
+6.Run
 ```
 php artisan serve
 ```
