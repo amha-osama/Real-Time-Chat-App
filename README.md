@@ -16,7 +16,7 @@ mv .env.example .env
 ```
 docker-compose up -d 
 ```
-5.open php may admin in browser : //http://localhost:8081/.
+5.open php may admin in browser : http://localhost:8081/.
 
 6.Run
 ```
