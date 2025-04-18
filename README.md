@@ -18,15 +18,23 @@ docker-compose up -d
 ```
 5.open php may admin in browser : http://localhost:8081/.
 
-6.Run
+6.Run `composer` and `npm`
 ```
-php artisan serve
+ composer update
+```
+```
+ npm install
+```
+
+7.Run
+```
+ php artisan serve
 ```
 
 ```
-php artisan reverb:start
+ php artisan reverb:start
 ```
 
 ```
-npm run dev
+ npm run dev
 ```
